@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently learning Distributed Systems and Cloud Computing
+- 🔭 I’m interested in Distributed Systems and Cloud Computing
 
 
 - 🌱 I love working with a fast-paced software development team building innovative products and solutions.
