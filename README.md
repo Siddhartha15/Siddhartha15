@@ -19,3 +19,7 @@ Here are some ideas to get you started: -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=Siddhartha15&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28) -->
+
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhartha15&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28&theme=radical) -->
+
