@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hey there 👋
 
-- 🔭 I’m interested in Distributed Systems and Cloud Computing
+<!-- - 🔭 I’m interested in Distributed Systems and Cloud Computing
 
 
-- 🌱 I love working with teams building innovative products and solutions.
+- 🌱 I love working with teams building innovative products and solutions. -->
 
 <!-- 
 **Siddhartha15/Siddhartha15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
